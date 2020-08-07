@@ -1,0 +1,18 @@
+// Base
+@import 'base/base';
+@import 'base/variables';
+
+// Components
+@import 'components/header';
+@import 'components/side-nav';
+@import 'components/footer';
+
+// Layout
+@import 'layout/first_section';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';

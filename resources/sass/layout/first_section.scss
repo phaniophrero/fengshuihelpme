@@ -1,0 +1,40 @@
+.first-sectinon {
+    padding-top: 6rem;
+}
+
+.section-title-wrapper {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-family: leelawadee;
+    text-transform: uppercase;
+}
+
+.section-title-end {
+    font-size: 4.2rem;
+    font-family: century-gothic;
+    color: $color-red;
+    margin-top: -1.5rem;
+}
+
+.title-1 {
+    color: $color-gray;
+    letter-spacing: .4rem;
+    margin-right: 3rem;
+}
+
+.title-3 {
+    font-size: 1.6rem;
+    position: absolute;
+    left: 47%;
+}
+
+.title-4 {
+    color: $color-gray;
+    letter-spacing: .4rem;
+    margin-left: 3rem;
+}

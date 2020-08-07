@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap');
+// Fonts
+$quick-sand: "Quicksand",
+sans-serif;
+
+@font-face {
+    font-family: century-gothic;
+    src: url('/fonts/century_gothic.ttf');
+}
+
+@font-face {
+    font-family: badminton;
+    src: url('/fonts/badminton_of_shadow.ttf');
+}
+
+@font-face {
+    font-family: leelawadee;
+    src: url('/fonts/leelawadee-ui.ttf');
+}
+
+// Colors
+$color-black: #000000;
+$color-white: #ffffff;
+
+$color-gray: #808080;
+
+// Color Blue
+$color-blue-dark: #191d32;
+$color-blue: #acc0fe;
+
+// Color Red
+$color-red: #ff5d5d;
